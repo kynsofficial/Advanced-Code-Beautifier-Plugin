@@ -44,37 +44,37 @@ Navigate to the dedicated settings page to customize the plugin. Adjust syntax h
 ### 🖼️ Guide for Usage in Classic Editor
 
 ### 1. Open the Code Insertion Dialog
-![click the icon to open the dialog](./screenshots/screenshot3.png)
+![click the icon to open the dialog](./assets/screenshot3.png)
 Click the Advanced Code Beautifier icon in the toolbar to open the code insertion dialog.
 
 ### 2. Select the Language and Insert Code
-![select the language and insert code](./screenshots/screenshot2.png)
+![select the language and insert code](./assets/screenshot2.png)
 Choose the desired programming language from the dropdown list, and insert your code snippet into the text area. Click "OK" to insert the formatted code snippet into the editor.
 
 ### 3. Edit Existing Code Snippet
-![edit existing code snippet](./screenshots/screenshot1.png)
+![edit existing code snippet](./assets/screenshot1.png)
 Double-click on an existing code snippet to open the edit dialog, where you can modify the code or change the programming language.
 
 ### 4. For New WordPress Block Edior
-![additional options](./screenshots/screenshot4.png)
+![additional options](./assets/screenshot4.png)
 Click the Advanced Code Beautifier icon in the toolbar to open the code insertion dialog.
 
 ### 5. Frontend Appearance
-![frontend appearance](./screenshots/screenshot5.png)
+![frontend appearance](./assets/screenshot5.png)
 Double-click on an existing code snippet to open the edit dialog, where you can modify the code or change the programming language.
 
 
 ### 6. Frontend Appearance
-![frontend appearance](./screenshots/screenshot7.png)
+![frontend appearance](./assets/screenshot7.png)
 This is how the code snippet will look on the frontend, complete with syntax highlighting and a copy code button.
 
 ### 7. Block Editor Compatibility
-![block editor compatibility](./screenshots/screenshot6.png)
+![block editor compatibility](./assets/screenshot6.png)
 The plugin also works seamlessly with the WordPress block editor, providing the same rich features and functionality.
 
 
 ### 📞 Support
-Need help? Open an [issue](link-to-support-forum) or visit our [support page](link-to-support-page).
+Need help? Open an [issue](akinolaakeem.com) or visit our [support page](https://aptlearn.io/contacts).
 
 ### 🤝 Contributions
 Fork the master branch, make your changes, and submit a pull request. Contributions are welcomed!
