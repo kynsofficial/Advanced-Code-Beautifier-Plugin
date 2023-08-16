@@ -2,17 +2,27 @@
 
 Elevate your code snippets into visually stunning masterpieces with Advanced Code Beautifier! Ideal for developers, bloggers, educators, and anyone who wants to present code beautifully on their WordPress site.
 
+
+
 ## Table of Contents
-- [Features](#features)
+- [Features](##features)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Screenshots](#screenshots)
+- [Guide for Usage in Classic Editor](#guide-for-usage-in-classic-editor)
 - [Support](#support)
 - [Contributions](#contributions)
 - [License](#license)
 - [Developer Guide](#developer-guide)
+  - [Directory Structure](#directory-structure)
+  - [Frontend](#frontend)
+  - [Code Snippet](#code-snippet)
+  - [Block Editor Compatibility](#block-editor-compatibility)
+  - [Extending and Contributing](#extending-and-contributing)
+  - [Extending the Plugin](#extending-the-plugin)
 - [Changelog](#changelog)
 - [Credits](#credits)
+
+
 
 ## 🎨 Features
 - **Syntax Highlighting**: 🌈 Supports multiple programming languages, with vibrant syntax highlighting.
@@ -144,3 +154,4 @@ Developed with ❤️ by [Agba Akin](https://www.akinolaakeem.com). Follow on [T
 ---
 
 Transform your code snippets with Advanced Code Beautifier!
+
