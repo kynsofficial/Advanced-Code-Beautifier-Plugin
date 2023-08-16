@@ -5,14 +5,14 @@ Elevate your code snippets into visually stunning masterpieces with Advanced Cod
 
 
 ## Table of Contents
-- [Features](##features)
+- [Features](#-Features)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Guide for Usage in Classic Editor](#guide-for-usage-in-classic-editor)
-- [Support](#support)
-- [Contributions](#contributions)
-- [License](#license)
-- [Developer Guide](#developer-guide)
+- [Configuration](#-configuration)
+- [Guide for Usage in Classic Editor](#%EF%B8%8F-guide-for-usage-in-classic-editor)
+- [Support](#-support)
+- [Contributions](#-contributions)
+- [License](#-license)
+- [Developer Guide](#-developer-guide)
   - [Directory Structure](#directory-structure)
   - [Frontend](#frontend)
   - [Code Snippet](#code-snippet)
@@ -20,11 +20,11 @@ Elevate your code snippets into visually stunning masterpieces with Advanced Cod
   - [Extending and Contributing](#extending-and-contributing)
   - [Extending the Plugin](#extending-the-plugin)
 - [Changelog](#changelog)
-- [Credits](#credits)
+- [Credits](#-credits)
 
 
 
-## 🎨 Features
+### 🎨 Features
 - **Syntax Highlighting**: 🌈 Supports multiple programming languages, with vibrant syntax highlighting.
 - **Block Editor Compatibility**: 🧩 Seamless integration with TinyMCE and WordPress block editors.
 - **Code Copying**: 📋 One-click code copying for your readers.
@@ -32,16 +32,16 @@ Elevate your code snippets into visually stunning masterpieces with Advanced Cod
 - **Readability Focus**: 👓 Designed for maximum code clarity and readability.
 - **And More!**: ✨ Discover additional features within!
 
-## ⚙️ Installation
-1. Download the plugin [here](link-to-plugin).
+### Installation
+1. Download the plugin [here]([link-to-plugin](https://akinolaakeem.com/wp-content/uploads/2023/08/codesnippet-1.zip)).
 2. Navigate to 'Plugins > Add New' in your WordPress dashboard.
 3. Click 'Upload Plugin', choose the downloaded file, then click 'Install Now'.
 4. Activate and enjoy!
 
-## 🔧 Configuration
+### 🔧 Configuration
 Navigate to the dedicated settings page to customize the plugin. Adjust syntax highlighting themes, enable/disable certain features, and more.
 
-## 🖼️ Guide for Usage in Classic Editor
+### 🖼️ Guide for Usage in Classic Editor
 
 ### 1. Open the Code Insertion Dialog
 ![click the icon to open the dialog](./screenshots/screenshot3.png)
@@ -73,16 +73,16 @@ This is how the code snippet will look on the frontend, complete with syntax hig
 The plugin also works seamlessly with the WordPress block editor, providing the same rich features and functionality.
 
 
-## 📞 Support
+### 📞 Support
 Need help? Open an [issue](link-to-support-forum) or visit our [support page](link-to-support-page).
 
-## 🤝 Contributions
+### 🤝 Contributions
 Fork the master branch, make your changes, and submit a pull request. Contributions are welcomed!
 
-## 📜 License
+### 📜 License
 GPL v2 or later. See [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer Guide
+### 👨‍💻 Developer Guide
 ### Directory Structure
 The plugin is organized into three main directories:
 - **`block_editor_compatibility`**: Contains files for ensuring the plugin's compatibility with WordPress block editors.
@@ -148,7 +148,7 @@ Extend the functionality by hooking into actions and filters. Add features or mo
 ### Changelog
 See the [changelog file](CHANGELOG.md) for the version history.
 
-## 👏 Credits
+### 👏 Credits
 Developed with ❤️ by [Agba Akin](https://www.akinolaakeem.com). Follow on [Twitter](https://twitter.com/kynsofficial) or visit [aptLearn](https://www.aptlearn.io).
 
 ---
